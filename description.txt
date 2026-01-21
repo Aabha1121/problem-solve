@@ -1,0 +1,11 @@
+index.html:
+This file displays basic information and represents the project using a simple web interface.
+
+two_sum.cpp:
+This program solves the Two Sum problem using a hash map to reduce time complexity to O(n).
+
+secondLargest.java:
+This program finds the second largest element in an array without sorting, improving efficiency.
+
+steps.py:
+This file prints the algorithmic steps to help understand logical flow in problem solving.
